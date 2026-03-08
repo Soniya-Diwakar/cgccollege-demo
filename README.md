@@ -1,4 +1,4 @@
 # cgccollege-demo
 This is my second git Repository.
 <br>
-Author- Soniya 
+Author- Soniya Diwakar (Ram)
